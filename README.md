@@ -1,5 +1,5 @@
 
-# Backendutveckling och API:er #7: CRUD och MySQL i Node.js/Express
+# Backendutveckling och API:er #7: MySQL och CRUD i Node.js/Express
 
 👋 Se Linus Rudbecks föreläsning från 22 maj ✅ 
 
